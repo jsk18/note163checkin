@@ -3,7 +3,7 @@
 ## 目前暂时能用
 python源码copy于(https://github.com/lepecoder/checkin)
 
-##下面的说明也是复制的别人项目的
+## 下面的说明也是复制的别人项目的
 
 # Github Actions说明
 ## 一、Fork此仓库
